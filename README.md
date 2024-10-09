@@ -15,4 +15,9 @@ Das Regelwerk ist derzeitig nur auf Deutsch verfasst.
 >*The rulebook is currently only available in German.*
 
 # Umfang
-Der Umfang umfasst verschiedene Armeen mit individuellen Einheiten und Fähigkeiten.
+Der Umfang umfasst verschiedene Armeen mit individuellen Einheiten und Fähigkeiten. Dazu kommt ein allgemeines Basisregelwerk.
+
+# Armeen
+Folgende Armeen sind derzeit im Spiel:
+* USA
+* UdSSR
